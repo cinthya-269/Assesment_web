@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #a5d6a7;
+  padding-top: 2%;
+}
+
+.home {
+  text-align: end;
+  padding-right: 5%;
+  padding-bottom: 2%;
+}
+
+.articel {
+  float: right;
+  padding-top: 10%;
+  padding-bottom: 11%;
+  padding-left: 10%;
+  padding-right: 5%;
+  width: 50%;
+  height: 100%;
+  background-color: #e8f5e9;
+}
+
+footer {
+  height: auto;
+}
